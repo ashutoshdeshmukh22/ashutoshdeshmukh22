@@ -5,7 +5,7 @@
 🌱 I’m currently learning DS & Algo 😭 <br>
 ✉️ ashutoshdeshmukhh@gmail.com <br>
 💻 Showwcase: https://ashutoshdeshmukh.showwcase.com <br>
-🎨 Portfolio: http://digitalashutosh.in <br>
+🎨 Portfolio: https://digitalashutosh.in <br>
 💼 LinkedIn: https://linkedin.com/in/ashutoshdeshmukh22 <br>
 </p> 
 
