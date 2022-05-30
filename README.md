@@ -1,6 +1,8 @@
 Hi 👋 My name is Ashutosh Deshmukh
 ==================================
 
+<a href="https://app.daily.dev/ashutosh22"><img src="https://api.daily.dev/devcards/a013eb1c38d24db8aea5f32731506d87.png?r=4up" width="400" alt="Ashutosh Deshmukh's Dev Card"/></a>
+
 Aspiring Full Stack Developer
 -----------------------------
 
