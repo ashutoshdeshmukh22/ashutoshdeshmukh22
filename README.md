@@ -4,7 +4,7 @@ Hi 👋 My name is Ashutosh Deshmukh
 Aspiring Full Stack Developer
 -----------------------------
 
-21 Year's Old Full Stack Developer grinding hard to make something cool, I’m interested in HTML, CSS, JavaScript, BootStrap, React, Typescript, Node Js, Express Js, Mongo DB, MySQL
+22 Year's Old Full Stack Developer grinding hard to make something cool, I’m interested in HTML, CSS, JavaScript, BootStrap, React, React Native, Typescript, Node Js, Express Js, Mongo DB, MySQL
 
 * 🌍  I'm based in Pune, India
 * 🖥️  See my portfolio at [Showwcase](http://ashutoshdeshmukh.showwcase.com)
